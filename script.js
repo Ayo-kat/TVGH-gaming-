@@ -34,7 +34,7 @@ const TVGH_CONFIG = {
      for all "Book Now" / "Book This Deal" buttons.
      ------------------------------------------------------- */
   whatsappNumbers: [
-    { label: "Bookings & Enquiries", number: "27000000000" }
+    { label: "Bookings & Enquiries", number: "+27 63 318 0343" }
     // Add more lines below, e.g.:
     // { label: "Second Line", number: "27712345678" }
   ],
